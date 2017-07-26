@@ -1,0 +1,376 @@
+C:\Users\Thomas\Desktop\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Lost Manuscript II Data Entry.exe
+C:\Users\Thomas\Desktop\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Lost Manuscript II Data Entry.pdb
+C:\Users\Thomas\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Form1.resources
+C:\Users\Thomas\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Form2.resources
+C:\Users\Thomas\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Properties.Resources.resources
+C:\Users\Thomas\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Searcher.resources
+C:\Users\Thomas\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.TreeFrom.resources
+C:\Users\Thomas\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost Manuscript II Data Entry.exe
+C:\Users\Thomas\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost Manuscript II Data Entry.pdb
+C:\Users\Thomas\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\School Work\LostManuscriptII\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost Manuscript II Data Entry.exe
+C:\Users\Thomas\Desktop\School Work\LostManuscriptII\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost Manuscript II Data Entry.pdb
+C:\Users\Thomas\Desktop\School Work\LostManuscriptII\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\School Work\LostManuscriptII\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Form1.resources
+C:\Users\Thomas\Desktop\School Work\LostManuscriptII\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Form2.resources
+C:\Users\Thomas\Desktop\School Work\LostManuscriptII\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Properties.Resources.resources
+C:\Users\Thomas\Desktop\School Work\LostManuscriptII\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Searcher.resources
+C:\Users\Thomas\Desktop\School Work\LostManuscriptII\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.TreeFrom.resources
+C:\Users\Thomas\Desktop\School Work\LostManuscriptII\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\School Work\LostManuscriptII\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Lost Manuscript II Data Entry.exe
+C:\Users\Thomas\Desktop\School Work\LostManuscriptII\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Lost Manuscript II Data Entry.pdb
+C:\Users\nutjung\Dropbox\Test\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost Manuscript II Data Entry.exe
+C:\Users\nutjung\Dropbox\Test\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost Manuscript II Data Entry.pdb
+C:\Users\nutjung\Dropbox\Test\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Lost Manuscript II Data Entry.exe
+C:\Users\nutjung\Dropbox\Test\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Lost Manuscript II Data Entry.pdb
+C:\Users\nutjung\Dropbox\Test\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\nutjung\Dropbox\Test\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Form1.resources
+C:\Users\nutjung\Dropbox\Test\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Form2.resources
+C:\Users\nutjung\Dropbox\Test\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Properties.Resources.resources
+C:\Users\nutjung\Dropbox\Test\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Searcher.resources
+C:\Users\nutjung\Dropbox\Test\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.TreeFrom.resources
+C:\Users\nutjung\Dropbox\Test\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\nutjung\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost Manuscript II Data Entry.exe
+C:\Users\nutjung\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost Manuscript II Data Entry.pdb
+C:\Users\nutjung\Desktop\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Lost Manuscript II Data Entry.exe
+C:\Users\nutjung\Desktop\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Lost Manuscript II Data Entry.pdb
+C:\Users\nutjung\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\nutjung\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Form1.resources
+C:\Users\nutjung\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Form2.resources
+C:\Users\nutjung\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Properties.Resources.resources
+C:\Users\nutjung\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Searcher.resources
+C:\Users\nutjung\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.TreeFrom.resources
+C:\Users\nutjung\Desktop\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\nutjung\Desktop\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost Manuscript II Data Entry.exe
+C:\Users\nutjung\Desktop\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost Manuscript II Data Entry.pdb
+C:\Users\nutjung\Desktop\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Lost Manuscript II Data Entry.exe
+C:\Users\nutjung\Desktop\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Lost Manuscript II Data Entry.pdb
+C:\Users\nutjung\Desktop\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\nutjung\Desktop\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Form1.resources
+C:\Users\nutjung\Desktop\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Form2.resources
+C:\Users\nutjung\Desktop\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Properties.Resources.resources
+C:\Users\nutjung\Desktop\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Searcher.resources
+C:\Users\nutjung\Desktop\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.TreeFrom.resources
+C:\Users\nutjung\Desktop\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\nutjung\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\justkingl4\Desktop\RPI\junior\S2\newResearch\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost Manuscript II Data Entry.exe
+C:\Users\justkingl4\Desktop\RPI\junior\S2\newResearch\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost Manuscript II Data Entry.pdb
+C:\Users\justkingl4\Desktop\RPI\junior\S2\newResearch\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Lost Manuscript II Data Entry.exe
+C:\Users\justkingl4\Desktop\RPI\junior\S2\newResearch\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Lost Manuscript II Data Entry.pdb
+C:\Users\justkingl4\Desktop\RPI\junior\S2\newResearch\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\justkingl4\Desktop\RPI\junior\S2\newResearch\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Form1.resources
+C:\Users\justkingl4\Desktop\RPI\junior\S2\newResearch\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Form2.resources
+C:\Users\justkingl4\Desktop\RPI\junior\S2\newResearch\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Properties.Resources.resources
+C:\Users\justkingl4\Desktop\RPI\junior\S2\newResearch\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.Searcher.resources
+C:\Users\justkingl4\Desktop\RPI\junior\S2\newResearch\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost_Manuscript_II_Data_Entry.TreeFrom.resources
+C:\Users\justkingl4\Desktop\RPI\junior\S2\newResearch\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\nutjung\Desktop\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost Manuscript II Data Entry.exe
+C:\Users\nutjung\Desktop\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Lost Manuscript II Data Entry.pdb
+C:\Users\nutjung\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe
+C:\Users\nutjung\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.pdb
+C:\Users\nutjung\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Properties.Resources.resources
+C:\Users\nutjung\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.exe
+C:\Users\nutjung\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.pdb
+C:\Users\nutjung\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form1.resources
+C:\Users\nutjung\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form3.resources
+C:\Users\nutjung\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Searcher.resources
+C:\Users\nutjung\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.TreeFrom.resources
+C:\Users\nutjung\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\AIMLbot.dll
+C:\Users\nutjung\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form2.resources
+C:\Users\Sakawkarn\Desktop\Chinese Dialogue Management\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.exe
+C:\Users\Sakawkarn\Desktop\Chinese Dialogue Management\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.pdb
+C:\Users\Sakawkarn\Desktop\Chinese Dialogue Management\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe
+C:\Users\Sakawkarn\Desktop\Chinese Dialogue Management\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.pdb
+C:\Users\Sakawkarn\Desktop\Chinese Dialogue Management\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\AIMLbot.dll
+C:\Users\Sakawkarn\Desktop\Chinese Dialogue Management\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\Sakawkarn\Desktop\Chinese Dialogue Management\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form1.resources
+C:\Users\Sakawkarn\Desktop\Chinese Dialogue Management\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form2.resources
+C:\Users\Sakawkarn\Desktop\Chinese Dialogue Management\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form3.resources
+C:\Users\Sakawkarn\Desktop\Chinese Dialogue Management\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Properties.Resources.resources
+C:\Users\Sakawkarn\Desktop\Chinese Dialogue Management\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Searcher.resources
+C:\Users\Sakawkarn\Desktop\Chinese Dialogue Management\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.TreeFrom.resources
+C:\Users\Sakawkarn\Desktop\Chinese Dialogue Management\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\nutjung\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\huangz8\Desktop\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.exe
+C:\Users\huangz8\Desktop\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.pdb
+C:\Users\huangz8\Desktop\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe
+C:\Users\huangz8\Desktop\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.pdb
+C:\Users\huangz8\Desktop\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\AIMLbot.dll
+C:\Users\huangz8\Desktop\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\huangz8\Desktop\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form1.resources
+C:\Users\huangz8\Desktop\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form2.resources
+C:\Users\huangz8\Desktop\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form3.resources
+C:\Users\huangz8\Desktop\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Properties.Resources.resources
+C:\Users\huangz8\Desktop\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Searcher.resources
+C:\Users\huangz8\Desktop\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.TreeFrom.resources
+C:\Users\huangz8\Desktop\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\zevsm_000\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form1.resources
+C:\Users\zevsm_000\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form2.resources
+C:\Users\zevsm_000\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form3.resources
+C:\Users\zevsm_000\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Properties.Resources.resources
+C:\Users\zevsm_000\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Searcher.resources
+C:\Users\zevsm_000\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.TreeFrom.resources
+C:\Users\zevsm_000\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\zevsm_000\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe
+C:\Users\zevsm_000\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.pdb
+C:\Users\zevsm_000\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\AIMLbot.dll
+C:\Users\zevsm_000\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.exe
+C:\Users\zevsm_000\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.pdb
+C:\Users\zevsm_000\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+E:\Documents\Schoolwork\Spring 2016\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.exe
+E:\Documents\Schoolwork\Spring 2016\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.pdb
+E:\Documents\Schoolwork\Spring 2016\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe
+E:\Documents\Schoolwork\Spring 2016\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.pdb
+E:\Documents\Schoolwork\Spring 2016\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\AIMLbot.dll
+E:\Documents\Schoolwork\Spring 2016\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form1.resources
+E:\Documents\Schoolwork\Spring 2016\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form2.resources
+E:\Documents\Schoolwork\Spring 2016\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form3.resources
+E:\Documents\Schoolwork\Spring 2016\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Properties.Resources.resources
+E:\Documents\Schoolwork\Spring 2016\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Searcher.resources
+E:\Documents\Schoolwork\Spring 2016\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.TreeFrom.resources
+E:\Documents\Schoolwork\Spring 2016\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+E:\Documents\Schoolwork\Spring 2016\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe.config
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.pdb
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\AIMLbot.dll
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.dll
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.dll
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.xml
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.xml
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form1.resources
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form2.resources
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form3.resources
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Properties.Resources.resources
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Searcher.resources
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.TreeFrom.resources
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.exe
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.pdb
+C:\Users\Zev\Documents\GitHub\ChineseDialogueSpring2015\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe.config
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.exe
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.pdb
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.pdb
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\AIMLbot.dll
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.dll
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.dll
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.dll
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.dll
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.dll
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.xml
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.xml
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.xml
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.xml
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.xml
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form1.resources
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form2.resources
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form3.resources
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Properties.Resources.resources
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Searcher.resources
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.TreeFrom.resources
+E:\Documents\Schoolwork\Research\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form1.resources
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form2.resources
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form3.resources
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Properties.Resources.resources
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Searcher.resources
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.TreeFrom.resources
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe.config
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.pdb
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\AIMLbot.dll
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.dll
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.dll
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.xml
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.xml
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.exe
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.pdb
+C:\Users\Zev\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe.config
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.pdb
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\AIMLbot.dll
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.dll
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.dll
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.xml
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.xml
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form1.resources
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form2.resources
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form3.resources
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Properties.Resources.resources
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Searcher.resources
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.TreeFrom.resources
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.exe
+C:\Users\zevsm_000\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.pdb
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe.config
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.pdb
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\AIMLbot.dll
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.dll
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.dll
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.dll
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.dll
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.dll
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.xml
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.xml
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.xml
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.xml
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.xml
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form1.resources
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form2.resources
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form3.resources
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Properties.Resources.resources
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Searcher.resources
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.TreeFrom.resources
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.exe
+D:\Documents\Schoolwork\Research\NarrativeBackend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.pdb
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe.config
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.pdb
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\AIMLbot.dll
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.dll
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.dll
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.xml
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.xml
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form1.resources
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form2.resources
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form3.resources
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Properties.Resources.resources
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Searcher.resources
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.TreeFrom.resources
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.exe
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.pdb
+C:\Users\CISL\Desktop\CISLVIS\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe.config
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.pdb
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\AIMLbot.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.xml
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.xml
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form1.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form2.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form3.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Properties.Resources.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Searcher.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.TreeFrom.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.exe
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_20161121_1526\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.pdb
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe.config
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.exe
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.pdb
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.pdb
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\AIMLbot.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.xml
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.xml
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form1.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form2.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form3.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Properties.Resources.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Searcher.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.TreeFrom.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_latest\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe.config
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.exe
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.pdb
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.pdb
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\AIMLbot.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.xml
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.xml
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form1.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form2.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form3.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Properties.Resources.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Searcher.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.TreeFrom.resources
+C:\Users\cisl-platform\Desktop\CISLVIS\NarrativeBackendRPI_rpi_history\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe.config
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.exe
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.pdb
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.exe
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\Dialogue Data Entry.pdb
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\AIMLbot.dll
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.dll
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.dll
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.xml
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.xml
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form1.resources
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form2.resources
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Form3.resources
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Properties.Resources.resources
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.Searcher.resources
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue_Data_Entry.TreeFrom.resources
+C:\Users\luob\Documents\GitHub\NarrativeBackendRPI\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache

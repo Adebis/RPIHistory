@@ -1,0 +1,10 @@
+Athletics
+>
+1
+
+
+Basketball
+>
+Hockey
+<
+3
