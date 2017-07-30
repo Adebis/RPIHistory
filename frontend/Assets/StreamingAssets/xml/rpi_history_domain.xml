@@ -350,8 +350,8 @@
         <neighbors>
           <neighbor dest="18" relationship="is the eponym of" weight="0"/>
           <neighbor dest="22" relationship="is part of" weight="0"/>
-          <neighbor dest="44" relationship="will become" weight="0"/>
-          <neighbor dest="45" relationship="will become" weight="0"/>
+          <neighbor dest="44" relationship="became" weight="0"/>
+          <neighbor dest="45" relationship="became" weight="0"/>
 <!-- I'm not sure about these relationships, but what the heck...  TAG  -->
       </neighbors>
          <geodata>
@@ -1024,8 +1024,8 @@
         <neighbors>
           <neighbor dest="18" relationship="is the eponym of" weight="0"/>
           <neighbor dest="22" relationship="is part of" weight="0"/>
-          <neighbor dest="17" relationship="was a" weight="0"/>
-          <neighbor dest="45" relationship="will become" weight="0"/>
+          <neighbor dest="17" relationship="was" weight="0"/>
+          <neighbor dest="45" relationship="became" weight="0"/>
 <!-- I'm not sure about these relationships, but what the heck...  TAG  -->
       </neighbors>
          <geodata>
@@ -1050,8 +1050,8 @@
         <neighbors>
           <neighbor dest="18" relationship="is the eponym of" weight="0"/>
           <neighbor dest="22" relationship="is part of" weight="0"/>
-          <neighbor dest="17" relationship="was a" weight="0"/>
-          <neighbor dest="44" relationship="was a" weight="0"/>
+          <neighbor dest="17" relationship="was" weight="0"/>
+          <neighbor dest="44" relationship="was" weight="0"/>
 <!-- I'm not sure about these relationships, but what the heck...  TAG  -->
       </neighbors>
          <geodata>
