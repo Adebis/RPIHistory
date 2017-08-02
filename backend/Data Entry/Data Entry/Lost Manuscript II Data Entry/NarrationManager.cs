@@ -50,7 +50,8 @@ namespace Dialogue_Data_Entry
 		private string[] _buffer;
 		private string[] buffer { get { return _buffer; } set { _buffer = value; b = 0; } }
 		private int b;  // buffer index. Gets reset when buffer does.
-
+        private int count1;
+        private int count2;
 		public NarrationCalculator calculator;  //The calculator, for score/novelty values and constraints
 
 		private const string IDK = "I'm afraid I don't know anything about that topic." + "##" + "对不起，我不知道。" + "##";
@@ -516,14 +517,20 @@ namespace Dialogue_Data_Entry
                         target_node = feature_graph.getFeature(story_act.Item2);
                         if (story_act.Item1.Equals(Constant.LEADIN))
                         {
+                            count1++;
+                            count2++;
                             //node_text = LeadIn(graph_node) + node_text;
                         }//end if
                         else if (story_act.Item1.Equals(Constant.RELATIONSHIP))
                         {
+                            count1++;
+                            count2++;
                             node_text = "<color=#0000ffff>" + Relationship(graph_node, target_node) + "</color>" + node_text;
                         }//end else if
                         else if (story_act.Item1.Equals(Constant.SWITCHPOINT))
                         {
+                            count1++;
+                            count2++;
                             //Get both halves of the story.
                             StorySegment first_half = temp_segment;
                             int asdasd = story_in.StorySequence.IndexOf(first_half);
@@ -610,15 +617,31 @@ namespace Dialogue_Data_Entry
                         }//end else if
                         else if (story_act.Item1.Equals(Constant.USERTURN))
                         {
+                            count1++;
+                            count2++;
                             node_text = node_text + "What would you like to hear about? ";
                         }//end else if
                         else if (story_act.Item1.Equals(Constant.RESOLVE))
                         {
-                            node_text = node_text + "<color=#ff00ffff>" + Resolve(graph_node, target_node) + "</color>";
+                            count1++;
+                            count2++;
+                            if (count1 >= 3)
+                            {
+                                node_text = node_text + "<color=#ff00ffff>" + Resolve(graph_node, target_node) + "</color>";
+                                count1 = 0;
+                            }
+                           
                         }//end else if
                         else if (story_act.Item1.Equals(Constant.TIEBACK))
                         {
-                            node_text = node_text + "<color=#b8860bff>" + TieBack(graph_node, target_node) + "</color>";
+                            count1++;
+                            count2++;
+                            if (count2 >= 3)
+                            {
+                                node_text = node_text + "<color=#b8860bff>" + TieBack(graph_node, target_node) + "</color>";
+                                count2 = 0;
+                            }
+                           
                         }//end else if
                     }//end foreach
                     temp_node.text = node_text;
