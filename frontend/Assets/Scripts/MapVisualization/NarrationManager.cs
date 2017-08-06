@@ -49,28 +49,37 @@ public class NarrationManager : MonoBehaviour
     public AudioClip clip_41;
 
     public GameObject ui1;
+    public List<timelineNode> allNodes;
     private TextToSpeechWatson TTS;
     // public GameObject ui2;
     private NodeData nd;
     private NodeData nd1;
+    
     //delegate void mydelegate(string data);
     //mydelegate listener;
-
+    private string input_text;
     //public NarrationJournal a;
     void Awake()
     {
+        foreach (timelineNode i in allNodes)
+        {
+            print(i.node_name.ToLower());
+        }
+
         tlb = GameObject.Find("TimeLine").GetComponent<TimeLineBar>();
         progressNarrationSwitch = false;
         listener = delegate (string data)
         {
+            
             nd1 = JsonUtility.FromJson<NodeData>(data);
+            
             //print("NodeData text: " + nd.text);
 
         };
         narrationNodeSelectListener = delegate (string data) {
             if (user_can_take_turn)
             {
-
+                
                 nd = JsonUtility.FromJson<NodeData>(data);
              
                 user_can_take_turn = false;
@@ -79,7 +88,7 @@ public class NarrationManager : MonoBehaviour
             else
             {
                 nd = JsonUtility.FromJson<NodeData>(data);
-                
+
                 // Call narrative with turns = 0 to request that the given
                 // node be added to the existing story.
                 Narrate(nd.id, 0);
@@ -407,6 +416,7 @@ public class NarrationManager : MonoBehaviour
         List<timelineNode> node_history = new List<timelineNode>();
         for (int ix = 0; ix < sequence_by_node.Count; ix++)
         {
+           
             //foreach (KeyValuePair<GameObject,string> kvp in sequence_by_node) {
             if (first_flag)
             {//wait for keypress before presenting first node
@@ -417,9 +427,10 @@ public class NarrationManager : MonoBehaviour
             {//dont wait for keypress on first node
                 yield return StartCoroutine(WaitForKeyDown());
             }
+            
             KeyValuePair<timelineNode, string> kvp = sequence_by_node[ix];
             timelineNode node_to_present = kvp.Key;
-
+            
             //Bring the previous node into past-focus
             if (node_history.Count >= 1)
             {
@@ -428,6 +439,7 @@ public class NarrationManager : MonoBehaviour
 
             //Present this node
             this.current_node = node_to_present;
+
             Present(node_to_present, node_history);
 
             //TODO: Hack for timeline scaling during demo, remove later!

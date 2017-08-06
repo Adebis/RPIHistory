@@ -67,12 +67,13 @@ public class timelineNode : MonoBehaviour
 	public Color hover_color = Color.cyan;
 
 	public Color line_out_focus_color = new Color(1f, 1f, 1f, 0.1f);
-
-	//OUT  = Out of focus. Node does not respond to mouse, is transparent, and does not draw lines to neighboring nodes.
-	//IN   = In focus. Node responds to mouse, is the focus color (red), always displays information, and draws lines to neighboring nodes.
-	//HALF = Half-Focus. Node responds to mouse, is the half-focus color (white), displays information on mouse-over, and does not draw lines to neighboring nodes.
-	//PAST = Past-focus. Node responds to mouse, is the past-focus color (blue), displays information on mouse-over, and draws lines to neighboring nodes.
-	public enum focusState
+    public string input_text;
+    NarrationManager a = new NarrationManager();
+    //OUT  = Out of focus. Node does not respond to mouse, is transparent, and does not draw lines to neighboring nodes.
+    //IN   = In focus. Node responds to mouse, is the focus color (red), always displays information, and draws lines to neighboring nodes.
+    //HALF = Half-Focus. Node responds to mouse, is the half-focus color (white), displays information on mouse-over, and does not draw lines to neighboring nodes.
+    //PAST = Past-focus. Node responds to mouse, is the past-focus color (blue), displays information on mouse-over, and draws lines to neighboring nodes.
+    public enum focusState
 	{
 		OUT = 1,
 		IN = 2,
@@ -122,8 +123,10 @@ public class timelineNode : MonoBehaviour
 		CAPITOL = 64
 	}
 
-	void Awake()
+
+    void Awake()
 	{
+
 		if (ms_curvedLineParent == null)
 		{
 			ms_curvedLineParent = GameObject.FindGameObjectWithTag("CurvedLineParent");
@@ -332,6 +335,10 @@ public class timelineNode : MonoBehaviour
 		//If any other node is the focus, make it a past-focus
 		foreach (timelineNode tn in allNodes)
 		{
+        //    if (input_text == tn.node_name.ToLower())
+        //    {
+        //        a.Narrate(tn.node_id, 9);
+        //    }
 			if (tn.state == focusState.IN)
 			{
 				tn.PastFocus();
@@ -735,7 +742,7 @@ public class timelineNode : MonoBehaviour
 		return JsonUtility.ToJson(dataObj);
 	}
 
-	/*
+    /*
 	public void OnMouseDrag() {
 		//Only trigger mouse effects if this node is active
 		if (active) {
@@ -752,4 +759,23 @@ public class timelineNode : MonoBehaviour
 		}//end if
 	}
 	*/
+    public void text_change(string newtext)
+    {
+        
+        
+        input_text = newtext.ToLower();
+        print(input_text);
+        
+       // Focus();
+      /*  foreach (timelineNode i in allNodes)
+        {
+         
+            if (i.node_name.ToLower() == input_text)
+            {
+                print("ggggggggggggg");
+               
+            }
+        }
+        */
+    }
 }
