@@ -387,7 +387,8 @@ namespace Dialogue_Data_Entry
             {
                 //2. Identify the switch point
                 //TODO: Hack for demo, change back to the commented out line later!
-                int switch_point_turn = 2; // calculator.IdentifySwitchPointTurn(chronology);
+                //int switch_point_turn = 2; // 
+                int switch_point_turn = calculator.IdentifySwitchPointTurn(chronology);
 
                 //3. Split the story at the switch point
                 chronology.SplitSegment(switch_point_turn);

@@ -147,7 +147,8 @@ namespace Dialogue_Data_Entry
         public List<Story> stories;
 
         // The file where the constraints are encoded
-        private string constraint_list_filename = "constraints.txt";
+        private List<string> constraint_list_filenames = new List<string>();
+        private string constraint_list_filename = "rpi_early_growth_constraints.txt";
         private List<int> target_id_list = new List<int>();
         List<Tuple<int, string, int>> target_constraint_list;
 
@@ -167,6 +168,8 @@ namespace Dialogue_Data_Entry
 			bot.loadAIMLFromFiles();
 			bot.isAcceptingUserInput = true;
 			this.user = new User("user", this.bot);*/
+            constraint_list_filenames.Add("rpi_early_growth_constraints.txt");
+            constraint_list_filenames.Add("ricketts_expansion_constraints.txt");
 
 			// Load the Feature Graph
 			this.graph = graph;
@@ -490,10 +493,15 @@ namespace Dialogue_Data_Entry
                         }//end else
                     }//end else
                     if (anchor_node != null)
-                    {
-                        //If we found an anchor node, check to see if there's an existing story. If not, make a new one.
+                    {   
+                        //check to see if there's an existing story. If not, make a new one.
                         if (main_story == null)
                         {
+                            // For the first story we make: If we found an anchor node, first check if 
+                            // any of the constraint files has the anchor node as the first node. If so, 
+                            // load the constraint list.
+                            LoadConstraintList(anchor_node.Id);
+
                             //Get the turn limit
                             int turn_limit = 0;
                             if (split_input[2] != null)
@@ -511,7 +519,7 @@ namespace Dialogue_Data_Entry
                             //FeatureGraph temp_graph = DeepClone.DeepCopy<FeatureGraph>(graph);
 
                             json_string = "";
-
+                            // ZEV: THIS IS WHERE THE CHRONOLOGY/CONSTRAINT BASED STORY IS MADE
                             NarrationManager temp_manager = new NarrationManager(this.graph, target_id_list, target_constraint_list);
                             //Story chronology = temp_manager.GenerateChronology(anchor_node, turn_limit);
                             Story chronology = temp_manager.GenerateTargetStory(turn_limit);
@@ -2057,6 +2065,112 @@ namespace Dialogue_Data_Entry
 		{
 			return feature.Speaks.ToArray();
 		}//end function FindSpeak
+
+        // ZEV: LETS US PICK A CONSTRAINT LIST BASED ON THE FIRST NODE
+        // WHEN THE FIRST STORY IS MADE.
+        // Try to load a constraint list with the given id as the first item in the list.
+        private void LoadConstraintList(int first_item_id)
+        {
+            // Go through each of the constraint lists named in the list of constraint files.
+            // Check each file, one at a time.
+            foreach (string constraint_list_filename in constraint_list_filenames)
+            {
+                // Read the constraint list.
+                System.IO.StreamReader file = new System.IO.StreamReader(constraint_list_filename);
+                string file_line = "";
+                // The constraint list consists of constraints; tuples of source node id, operator, target node id.
+                target_constraint_list = new List<Tuple<int, string, int>>();
+                bool first_line = true;
+                bool abandon_file = false;
+                while ((file_line = file.ReadLine()) != null)
+                {
+                    // Separate this line by spaces.
+                    string[] separated_file_line = file_line.Split(' ');
+                    int current_index = 0;
+                    string current_item = separated_file_line[0];
+                    // Check if the first item is an integer.
+                    int node_id = -1;
+                    bool parse_success = false;
+                    parse_success = int.TryParse(current_item, out node_id);
+                    // If it is an integer, then this is a node id.
+                    if (parse_success)
+                    {
+                        // Check if this is the first line of this file that we are reading.
+                        if (first_line)
+                        {
+                            first_line = false;
+                            // If so, then compare it to the first item id passed in.
+                            // If they match, then we're free to continue with filling the constraints in the graph
+                            // using this file.
+                            // If they do not match, check the next file.
+                            if (!node_id.Equals(first_item_id))
+                                abandon_file = true;
+                            else
+                                target_id_list = new List<int>();
+                        }//end if
+                        if (abandon_file)
+                            break;
+                        // We need to find out if there is an operator following this node.
+                        // Peak at the next two items in the line.
+                        if (current_index + 1 < separated_file_line.Length)
+                        {
+                            // There is at least an operator following the current node.
+                            string next_item = separated_file_line[current_index + 1];
+
+                            // Check if there is another node ID following the operator.
+                            if (current_index + 2 < separated_file_line.Length)
+                            {
+                                int next_node_id = -1;
+                                string next_next_item = separated_file_line[current_index + 2];
+                                parse_success = int.TryParse(next_next_item, out next_node_id);
+
+                                // Two items down is a node id.
+                                if (parse_success)
+                                {
+                                    // Since we have a node id, an operator, and a node id, add it
+                                    // to the list of constraints.
+                                    target_constraint_list.Add(new Tuple<int, string, int>(node_id, next_item, next_node_id));
+                                }//end if
+                            }//end if
+                        }//end if
+                        // If there is no next item, then this node id only item in the line
+                        else
+                        {
+                            // Add it to the target id list.
+                            target_id_list.Add(node_id);
+                        }//end else
+                    }//end if
+                }//end while
+                file.Close();
+                if (abandon_file)
+                    continue;
+
+                //Initialize the dialogue manager
+                //narration_manager = new NarrationManager(this.graph, myTemporalConstraintList);
+                // Make sure the constraints are added to each feature in the feature graph.
+
+                // Remove all existing constraints from nodes in the feature graph.
+                this.graph.RemoveAllConstraints();
+
+                // If the node appears in the target id list, add a constraint with the node id as the 
+                // source, the empty string as the operand, and -1 as the target.
+                foreach (int node_id in target_id_list)
+                {
+                    this.graph.getFeature(node_id).constraints.Add(new Tuple<int, string, int>(node_id, "", -1));
+                }//end foreach
+                // All other constraints should be added as-is, for both the source and target nodes
+                foreach (Tuple<int, string, int> constraint in target_constraint_list)
+                {
+                    if (this.graph.hasNode(constraint.Item1))
+                        this.graph.getFeature(constraint.Item1).constraints.Add(constraint);
+                    if (this.graph.hasNode(constraint.Item3))
+                        this.graph.getFeature(constraint.Item3).constraints.Add(constraint);
+                }//end foreach
+
+                narration_manager = new NarrationManager(this.graph, target_id_list, target_constraint_list);
+            }//end foreach
+
+        }//end method LoadConstraintList
 
 	}//end class QueryHandler
 

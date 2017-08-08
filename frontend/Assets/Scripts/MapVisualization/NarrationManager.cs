@@ -28,6 +28,9 @@ public class NarrationManager : MonoBehaviour
     //TODO: Part of hack for demo. Remove later?
     public List<timelineNode> pastNarrationNodes = new List<timelineNode>();
 
+    // The search textbox
+    public InputField search_field;
+
     private IEnumerator current_narration;
     private bool user_can_take_turn = true;
     private bool narration_reset = false;
@@ -168,8 +171,15 @@ public class NarrationManager : MonoBehaviour
                 //Narrate(129, 33); // "Roman_WWII_Analogy: Adolf Hitler (node 129) :: Augustus (node 33)" narration start
                 Narrate(1, 216); // "Roman_WWII_Analogy: WW II (node 1) :: Charles Crombie (node 216)" narration start
                 break;
+            // The scene for the first RPI history story
             case "rpi_history":
-                Narrate(17, 9);
+                Debug.Log("NarrationManager.Start() :: rpi_history scene, Narrate(22, 9)");
+                Narrate(22, 9);
+                break;
+            // The scene for the second RPI history story
+            case "rpi_history_2":
+                Debug.Log("NarrationManager.Start() :: rpi_history scene, Narrate(45, 9)");
+                Narrate(45, 9);
                 break;
             default:
                 Debug.Log("NarrationManager.Start() :: unhandled scene name");
@@ -309,7 +319,39 @@ public class NarrationManager : MonoBehaviour
         StartCoroutine(current_narration);
     }
 
-
+    // Searches for a node to select based on the text in the search_field.
+    public void SearchForNode()
+    {
+        string text_to_search = search_field.text;
+        print ("Searching for " + text_to_search + ". allNodes size: " + allNodes.Count);
+        // Pad the text to search. This will let us search for single words without tokenization.
+        text_to_search = " " + text_to_search + " ";
+        int node_id_found = -1;
+        // Get the first node that contains the text we're searching for.
+        foreach (timelineNode current_node in lxml.nodeList)
+        {
+            // Pad the name to check. This will let us search for single words without tokenization.
+            string name_to_check = " " + current_node.node_name + " ";
+            print ("Checking " + name_to_check);
+            if (name_to_check.Contains(text_to_search))
+            {
+                node_id_found = current_node.node_id;
+                // Select the node found.
+                if (user_can_take_turn)
+                {
+                    user_can_take_turn = false;
+                    Narrate(node_id_found, 9);
+                }
+                else
+                {
+                    // Call narrative with turns = 0 to request that the given
+                    // node be added to the existing story.
+                    Narrate(node_id_found, 0);
+                }
+                break;
+            }//end if
+        }//end foreach
+    }//end method SearchForNode
 
     //Present the given node given the previous nodes presented
     void Present(timelineNode node_to_present, List<timelineNode> node_history)

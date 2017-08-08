@@ -672,6 +672,16 @@ namespace Dialogue_Data_Entry
 				if (features[x].flag) { features[x].resetReachableFlags(); }
 			}
 		}
+
+        // Remove all constraints from all nodes in the feature graph.
+        public void RemoveAllConstraints()
+        {
+            foreach (Feature feature in features)
+            {
+                feature.constraints = new List<Tuple<int, string, int>>();
+            }//end foreach
+        }//end method RemoveAllConstraints
+
 		public List<string> getFeatureNames()
 		{
 			List<string> names = new List<string>();

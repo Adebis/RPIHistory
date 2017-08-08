@@ -764,6 +764,8 @@ namespace Dialogue_Data_Entry
             return score;
         }//end function CalculateScore
 
+        // ZEV: WHERE SCORES ARE CALCULATED FOR TARGET-BASED STORYTELLING.
+        // ADJUST CALCULATIONS HERE!!!
         // Calculate score with target node.
         private double CalculateScoreWithTarget(Feature current_feature, Feature last_feature, int turn_count, List<Feature> topic_history, Feature current_target)
         {
@@ -779,6 +781,7 @@ namespace Dialogue_Data_Entry
             double spatialConstraintW = weight_array[Constant.SpatialWeightIndex] * 10;
             double hierachyConstraintW = weight_array[Constant.HierarchyWeightIndex];
             double temporalConstraintW = weight_array[Constant.TemporalWeightIndex];
+            temporalConstraintW = 100.0f;
 
             double targetConstraintW = weight_array[Constant.AnchorWeightIndex];
 
@@ -805,8 +808,9 @@ namespace Dialogue_Data_Entry
                 hierachyConstraintValue = 1.0;
             }
 
-            //Temporal Constraint
-            double temporalConstraintValue = TemporalConstraint(current_feature, turn_count, topic_history).Count();
+            // Whether or not we are obeying the ChronologicalConstraint.
+            double temporalConstraintValue = ChronologicalConstraint(current_feature, last_feature); 
+            //TemporalConstraint(current_feature, turn_count, topic_history).Count();
 
             //check mentionCount
             float DiscussedAmount = current_feature.DiscussedAmount;
@@ -831,6 +835,7 @@ namespace Dialogue_Data_Entry
             score += (hierachyConstraintValue * hierachyConstraintW);
             score += (temporalConstraintValue * temporalConstraintW);
             score += (targetConstraintValue * targetConstraintW);
+            score += (temporalConstraintValue * temporalConstraintW);
 
             //If this is a filter node, or the same node as the focus node, artificially set its score low
             if (filter_nodes.Contains(current_feature.Name.Split(new string[] { "##" }, StringSplitOptions.None)[0])
@@ -861,6 +866,19 @@ namespace Dialogue_Data_Entry
             }
             return score;
         }//end function CalculateScore
+
+        // ZEV: MAKES IT SO THAT WE FAVOR GOING "FORWARD" IN THE TIMELINE
+        private double ChronologicalConstraint(Feature current_feature, Feature last_feature)
+        {
+            // Compare the current feature with the previous feature.
+            // If the current feature has a time and it is AFTER the last feature's time, then we
+            // are obeying the chronological constraint.
+            if (current_feature.effective_date >= last_feature.effective_date)
+            {
+                return 1.0f;
+            }//end if
+            return 0.0f;
+        }//end function ChronologicalConstraint
 
         /// <summary>
         /// Returns a list of features that are most novel calculated against the given feature.

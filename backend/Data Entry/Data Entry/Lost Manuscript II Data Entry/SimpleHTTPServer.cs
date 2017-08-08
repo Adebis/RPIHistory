@@ -204,6 +204,9 @@ class SimpleHTTPServer
 				chatBoxCallback("<CHRONOLOGY REQUEST: " + context.Request.RemoteEndPoint + ">\n");
 
 				string query = "CHRONOLOGY:" + data.id + ":" + data.turns;
+
+                chatBoxCallback("query: " + query + "\n");
+
 				response = handler.ParseInputJSON(query);
 
 				//dynamic response = new JObject();
