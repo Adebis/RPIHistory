@@ -22,6 +22,7 @@ public class NarrationJournal : MonoBehaviour {
 	private UnityAction<string> listener2;
 	public List<Text> imageLabels;
 	private List<List<Texture2D>> prev_images;
+	public List<Text> source_labels;
 
 	public AudioClip clip_17;
 	public AudioClip clip_22;
@@ -207,6 +208,7 @@ public class NarrationJournal : MonoBehaviour {
 
 		for (int i=0; i < numtoget; i++) {
 			imageboxes[i].texture = default_image;
+			source_labels[i].text = "";
 		}
 
 		int numfound = 0;
@@ -242,6 +244,7 @@ public class NarrationJournal : MonoBehaviour {
 						prev_images[index][numfound] = texture;
 					}
 					imageboxes[numfound].texture = texture;
+					source_labels[numfound].text = url;
 					if (numfound < imageLabels.Count) { //conditional here for now since there are not necessarily label boxes for every image
 														//in the future, this should not be necessary
 						imageLabels[numfound].text = labels[numfound];
@@ -262,6 +265,7 @@ public class NarrationJournal : MonoBehaviour {
 							prev_images[index][numfound] = texture;
 						}
 						imageboxes[numfound].texture = texture;
+						source_labels[numfound].text = url;
 						if (numfound < imageLabels.Count) { //conditional here for now since there are not necessarily label boxes for every image
 															//in the future, this should not be necessary
 							imageLabels[numfound].text = labels[numfound];
