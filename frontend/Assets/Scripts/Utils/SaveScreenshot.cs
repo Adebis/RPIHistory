@@ -39,7 +39,7 @@ public class SaveScreenshot : MonoBehaviour {
 			string fpath = Path.Combine (screenshotDirectory, fname);
 
 			// do the thing
-			Application.CaptureScreenshot (fpath);
+			ScreenCapture.CaptureScreenshot (fpath);
 			saved = true; // to avoid saving repeatedly while keys are down
 
 			// debug

@@ -51,7 +51,6 @@ public class NarrationJournal : MonoBehaviour {
 
 
     void Awake() {
-        pagenumber.text = "";
        /* audio_clips_by_id = new Dictionary<int, AudioClip> ();
 		audio_clips_by_id.Add (17, clip_17);
 		audio_clips_by_id.Add (22, clip_22);
@@ -111,6 +110,7 @@ public class NarrationJournal : MonoBehaviour {
     }
 
     void Start() {
+		//pagenumber.text = "";
         // play = new Rect(-17, -20, 100, 100);
         //if (playswitch)
         //{
