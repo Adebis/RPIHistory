@@ -353,8 +353,8 @@
         <neighbors>
           <neighbor dest="18" relationship="is the eponym of" weight="0"/>
           <neighbor dest="22" relationship="is part of" weight="0"/>
-          <neighbor dest="44" relationship="will become" weight="0"/>
-          <neighbor dest="45" relationship="will become" weight="0"/>
+          <neighbor dest="44" relationship="would later be known as" weight="0"/>
+          <neighbor dest="45" relationship="would later be known as" weight="0"/>
 <!-- I'm not sure about these relationships, but what the heck...  TAG  -->
       </neighbors>
          <geodata>
@@ -966,9 +966,10 @@
            <timeobj label="date" value="1834"/>
          </timedata>
          <pictures>
-            <picture label="" url="http://archives.lib.rpi.edu/InmagicGenie/documentfolder/126.jpg"/>
+            <picture label="" url="http://archives.rpi.edu/wp-content/uploads/2014/01/rentoblatch_pg1.jpg"/>
             <picture label="" url="http://archives.lib.rpi.edu/InmagicGenie/documentfolder/3998.jpg"/>
             <picture label="" url="http://archives.lib.rpi.edu/InmagicGenie/documentfolder/3997.jpg"/>
+            <picture label="" url="http://archives.lib.rpi.edu/InmagicGenie/documentfolder/126.jpg"/>
          </pictures>
          <speak>The Rensselaer School began its existence in a single building known as the Old Bank Place on the northwest corner of River and Middleburgh Streets. The structure was erected in 1801 to house Troy's first bank, the Farmer's Bank. Amos Eaton acquired the building on a lease in 1821. The Rensselaer School opened at the Old Bank Place on January 5, 1825 and remained there until 1834. The building housed laboratories with scientific instruments and specimens, an observatory, a library, lecture rooms and living quarters for the students and the Eaton family. The school leased the Van der Heyden Mansion from 1834-1841 then returned to the Old Bank Place in 1841. An 1841 catalog describes the site as "airy, healthy, and rural, surrounded by fields, hills and groves." Rensselaer remained at the Old Bank Place until 1844.</speak>
          <zh-speak />
@@ -1034,9 +1035,9 @@
        <Feature data="Palmer Chamberlain Ricketts, Faculty Member" id="44">
         <neighbors>
           <neighbor dest="18" relationship="is the eponym of" weight="0"/>
-          <neighbor dest="22" relationship="is part of" weight="0"/>
-          <neighbor dest="17" relationship="was a" weight="0"/>
-          <neighbor dest="45" relationship="will become" weight="0"/>
+          <neighbor dest="22" relationship="taught at" weight="0"/>
+          <neighbor dest="17" relationship="was once known as" weight="0"/>
+          <neighbor dest="45" relationship="would later be known as" weight="0"/>
 <!-- I'm not sure about these relationships, but what the heck...  TAG  -->
       </neighbors>
          <geodata>
@@ -1061,8 +1062,8 @@
         <neighbors>
           <neighbor dest="18" relationship="is the eponym of" weight="0"/>
           <neighbor dest="22" relationship="is part of" weight="0"/>
-          <neighbor dest="17" relationship="was a" weight="0"/>
-          <neighbor dest="44" relationship="was a" weight="0"/>
+          <neighbor dest="17" relationship="was once known as" weight="0"/>
+          <neighbor dest="44" relationship="was once known as" weight="0"/>
 <!-- I'm not sure about these relationships, but what the heck...  TAG  -->
       </neighbors>
          <geodata>
