@@ -137,22 +137,26 @@ public class timelineNode : MonoBehaviour
 	{
         callback = new List<UnityAction<string>>();
         particle = GetComponent<ParticleSystem>();
-		sr = GetComponent<SpriteRenderer>();
+		sr = gameObject.GetComponent<SpriteRenderer>();
 		Moveable = false;
 		//transform.Rotate(Vector3.forward * UnityEngine.Random.Range(0f, 80f)); //add some random initial rotation to offset angle from other nodes
 		floatOffset = UnityEngine.Random.Range(0f, 3f);
-		baseSize = gameObject.GetComponent<RectTransform>().localScale;
+		baseSize = gameObject.transform.localScale;
 		HalfFocus();
-		pastNarrationLineRenderer = transform.GetChild(0).gameObject.GetComponent<LineRenderer>();
+		if (transform.childCount > 0)
+			pastNarrationLineRenderer = transform.GetChild(0).gameObject.GetComponent<LineRenderer>();
 		pastStoryNodeTransform = null;
 
 		//make nametag
-		GameObject tag = Instantiate(nametagprefab) as GameObject;
-		ntContainer = tag.GetComponent<NameTagContainer>();
-		ntContainer.SetTarget(transform, node_name);
-		tag.transform.SetParent(GameObject.FindGameObjectWithTag("Overlay").transform, false);
-		nametag = tag;
-		disable_tag();
+		if (nametagprefab != null)
+		{
+			GameObject tag = Instantiate(nametagprefab) as GameObject;
+			ntContainer = tag.GetComponent<NameTagContainer>();
+			ntContainer.SetTarget(transform, node_name);
+			tag.transform.SetParent(GameObject.FindGameObjectWithTag("Overlay").transform, false);
+			nametag = tag;
+			disable_tag();
+		}//end if
 	}
 
 	public void setCategory(string cat) {
@@ -712,7 +716,8 @@ public class timelineNode : MonoBehaviour
 
     public void ChangeColor(Color newColor)
 	{
-		sr.color = newColor;
+		if (sr != null)
+			sr.color = newColor;
 	}
 
 	void OnMouseDown()

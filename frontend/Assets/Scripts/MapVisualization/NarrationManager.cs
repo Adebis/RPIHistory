@@ -24,22 +24,22 @@ public class NarrationManager : MonoBehaviour
     private UnityAction<string> narrationNodeSelectListener;
     private UnityAction<string> labelCollisionCheckListener;
     private UnityAction<string> listener;
-    public List<Vector3> pastNarrationNodeTransforms = new List<Vector3>();
+    public List<Vector3> pastNarrationNodeTransforms;
     //TODO: Part of hack for demo. Remove later?
-    public List<timelineNode> pastNarrationNodes = new List<timelineNode>();
+    public List<timelineNode> pastNarrationNodes;
 
     // The search textbox
     public InputField search_field;
 
     private IEnumerator current_narration;
-    private bool user_can_take_turn = true;
-    private bool narration_reset = false;
-    private bool loaded_xml_backend = false;
+    private bool user_can_take_turn;
+    private bool narration_reset;
+    private bool loaded_xml_backend;
 
-    public static bool progressNarrationSwitch = false;
-    public static bool firstPassNarration = true;
+    public static bool progressNarrationSwitch;
+    public static bool firstPassNarration;
 
-    private static bool first_flag = true;//set to false after first node has been expanded
+    private static bool first_flag;//set to false after first node has been expanded
 
     public TimeLineBar tlb;
 
@@ -107,7 +107,21 @@ public class NarrationManager : MonoBehaviour
 
     IEnumerator Start()
     {
-        
+        previous_node_id = -1;
+        labelCollisionCheckMax = 3;
+        labelCollisionCheckCount = 0;
+        user_can_take_turn = true;
+        narration_reset = false;
+        loaded_xml_backend = false;
+
+        progressNarrationSwitch = false;
+        firstPassNarration = true;
+        first_flag = true;//set to false after first node has been expanded
+
+        pastNarrationNodeTransforms = new List<Vector3>();
+        //TODO: Part of hack for demo. Remove later?
+        pastNarrationNodes = new List<timelineNode>();
+
         DebugMode.startTimer("NarrationManager.Start()");
 
         lxml.Initialize();
@@ -217,8 +231,8 @@ public class NarrationManager : MonoBehaviour
         labelCollisionCheck();
     }
 
-    private int labelCollisionCheckCount = 0;
-    public int labelCollisionCheckMax = 3;
+    private int labelCollisionCheckCount;
+    public int labelCollisionCheckMax;
     void labelCollisionCheck()
     {
         if (labelCollisionCheckCount < 0) return;
@@ -386,7 +400,7 @@ public class NarrationManager : MonoBehaviour
 		}//end while*/
 
     }//end method Present
-    int previous_node_id = -1;
+    int previous_node_id;
     //Narrate a sequence of nodes
     IEnumerator _Narrate(int node_id, int turns)
     {

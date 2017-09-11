@@ -422,3 +422,4 @@ C:\Users\luob\OneDrive\Documents\New folder (2)\RPIHistory\backend\Data Entry\Da
 C:\Users\luob\OneDrive\Documents\New folder (2)\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.GenerateResource.Cache
 C:\Users\luob\OneDrive\Documents\New folder (2)\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.exe
 C:\Users\luob\OneDrive\Documents\New folder (2)\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Dialogue Data Entry.pdb
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Debug\Zeno Data Entry.csproj.CoreCompileInputs.cache

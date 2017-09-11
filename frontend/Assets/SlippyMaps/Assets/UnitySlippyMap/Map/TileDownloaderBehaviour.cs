@@ -439,7 +439,7 @@ namespace UnitySlippyMap.Map
 		/// <summary>
 		/// The tile path.
 		/// </summary>
-    	private string tilePath = Application.temporaryCachePath;
+    	private string tilePath;
 #endif
 	
 		/// <summary>
@@ -679,6 +679,7 @@ namespace UnitySlippyMap.Map
 		/// </summary>
 	    private void Start()
 	    {
+			tilePath = Application.temporaryCachePath;
 	        TextureBogusExtension.Init(this);
 	    }
     
