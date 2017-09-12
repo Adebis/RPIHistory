@@ -1,0 +1,39 @@
+Plan for 15-20 minutes
+
+- Tell them what you're going to show them (a demo of our
+narrative generation AI agent. This is an agent that, as the
+name implies, generates narratives about some underlying dataset)
+- The dataset here being one about the history of RPI's campus, as
+built using the RPI Library's digital archives.
+1. Press enter to reveal first node, RPI itself.
+- Explain the parts of the visualization, and explain that RPI is something
+of a super-node in the dataset because it's connected to everything.
+2. Proceed to second node, Old Bank Place.
+- Because this is from the RPI library's digital archives, it has access 
+to some interesting digitized artifacts.
+- old bank place letter example.
+3. Play the audio for the letter.
+- The agent generates narratives using a suite of narrative techniques
+- Point out colored text in story journal
+- Underlying it all is some set of what we call "Anchor Points."
+- these are topics in the system which a data expert or a system designer
+has designated as important.
+- For example, over the course of this particular narrative that the system
+has generated, you will see the development of RPI's buildings and campus.
+- However, the system does have a measure of interactivity. For example, 
+here, the system has chosen this spot in the narrative it has generated to give
+the user a turn to directly input a topic they are interested in.
+- So, here, let's say I'm interested in Palmer Chamberlain Ricketts, an influential
+person in RPI's history.
+4. Click on Palmer Chamberlain Ricketts, student
+- We can see that the agent is pausing the narrative it has already planned about
+the history of RPI's buildings and campus and has generated a new arc based on this new topic.
+5. Proceed to next node, PCR, faculty
+6. Proceed to next node, PCR, president
+7. Proceed to next node, Infant Building 
+- And we see now the agent has elected to go back to its original story lines,
+and it's giving the user this reminder of where it left off.
+8. Proceed through story line to The Approach
+- Point out somewhere here that, with the map and the timeline,
+we can see how the development of RPI's campus has sort of climbed
+up the hill.
