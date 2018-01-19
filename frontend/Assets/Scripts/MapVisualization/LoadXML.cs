@@ -185,7 +185,7 @@ public class LoadXML : MonoBehaviour {
 				break;
 			}
 		}
-		if(www.error != null) {
+		if(!string.IsNullOrEmpty(www.error)) {
 			Debug.LogError("Error: could not connect to backend; aborting.");
 			return;
 		}

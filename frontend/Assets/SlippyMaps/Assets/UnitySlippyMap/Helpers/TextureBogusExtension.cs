@@ -42,7 +42,7 @@ public static class TextureBogusExtension
  
         yield return www;
  
-        if (www.error == null)
+        if (string.IsNullOrEmpty(www.error))
         {
             _bogusTexture = www.texture;
 #if DEBUG_LOG

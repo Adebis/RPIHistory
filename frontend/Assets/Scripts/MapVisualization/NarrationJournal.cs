@@ -56,6 +56,9 @@ public class NarrationJournal : MonoBehaviour {
 		audio_clips_by_id.Add (22, clip_22);
 		audio_clips_by_id.Add (41, clip_41);
         */
+		// Get objects from scene
+		
+
 		cachePath = Path.Combine(Application.dataPath, "cache");
 
 		TTS = GetComponent<TextToSpeechWatson>();

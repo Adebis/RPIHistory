@@ -209,6 +209,7 @@ class SimpleHTTPServer
 
 				response = handler.ParseInputJSON(query);
 
+                chatBoxCallback("response: " + response + "\n");
 				//dynamic response = new JObject();
 				//split and ignore last empty one
 				//response.sequence = new JArray(result.Split(new string[] { "::" }, StringSplitOptions.None).Reverse().Skip(1).Reverse().ToArray());
@@ -244,9 +245,10 @@ class SimpleHTTPServer
                 break;
             case "/chronology/reset":
 				chatBoxCallback("<NARRATION RESET: " + context.Request.RemoteEndPoint + ">\n");
-				handler.ParseInputJSON("RESTART_NARRATION");
-				b = Encoding.UTF8.GetBytes("null");
-				context.Response.StatusCode = (int)HttpStatusCode.OK;
+				response = handler.ParseInputJSON("RESTART_NARRATION");
+                //b = Encoding.UTF8.GetBytes("null");
+                b = Encoding.UTF8.GetBytes(response.ToString());
+                context.Response.StatusCode = (int)HttpStatusCode.OK;
 				context.Response.KeepAlive = false;
 				context.Response.ContentLength64 = b.Length;
 				context.Response.OutputStream.Write(b, 0, b.Length);

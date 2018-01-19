@@ -1,0 +1,28 @@
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\Dialogue Data Entry.exe.config
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\Dialogue Data Entry.exe
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\Dialogue Data Entry.pdb
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\AIMLbot.dll
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\NAudio.dll
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\Newtonsoft.Json.dll
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\System.Net.Http.dll
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\System.Net.Http.WebRequest.dll
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\System.Web.Http.dll
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\System.Web.Http.SelfHost.dll
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\Newtonsoft.Json.xml
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\System.Net.Http.xml
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\System.Net.Http.WebRequest.xml
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\System.Web.Http.xml
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release\System.Web.Http.SelfHost.xml
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Release\Dialogue_Data_Entry.Form1.resources
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Release\Dialogue_Data_Entry.Form2.resources
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Release\Dialogue_Data_Entry.Form3.resources
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Release\Dialogue_Data_Entry.Properties.Resources.resources
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Release\Dialogue_Data_Entry.Searcher.resources
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Release\Dialogue_Data_Entry.TreeFrom.resources
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Release\Zeno Data Entry.csproj.GenerateResource.Cache
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Release\Zeno Data Entry.csproj.CoreCompileInputs.cache
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Release\Dialogue Data Entry.exe
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Release\Dialogue Data Entry.pdb
+C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Release\Zeno Data Entry.csprojResolveAssemblyReference.cache

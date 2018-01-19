@@ -314,10 +314,15 @@ public class NarrationManager : MonoBehaviour
 
         WWW www = new WWW(url);
         yield return www;
-        if (www.error == null)
+        if (string.IsNullOrEmpty(www.error))
         {
-            print("NARRATION RESET");
+            print("NARRATION RESET: " + www.text);
             narration_reset = true;
+        }
+        else
+        {
+            print("WWW ERROR: " + www.error);
+            narration_reset = false;
         }
     }
 
@@ -437,7 +442,7 @@ public class NarrationManager : MonoBehaviour
         yield return www;
 
         // check for errors
-        if (www.error == null)
+        if (string.IsNullOrEmpty(www.error))
         {
             Debug.Log("WWW Ok!: " + www.text);
         }

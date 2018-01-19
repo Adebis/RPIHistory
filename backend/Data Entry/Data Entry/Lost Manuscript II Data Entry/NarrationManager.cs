@@ -559,44 +559,36 @@ namespace Dialogue_Data_Entry
                             node_text = node_text + "<color=#800080ff> We'll hear more about";
                             List<string> hint_at_text = new List<string>();
                             //Pick node pairs to hint at until we run out or we reach the maximum.
+                            // Don't pick a first node (f_node) more than once to foreshadow out.
+                            // But still allow the second node (s_node) to tie back to it.
+                            List<Feature> f_features_used = new List<Feature>();
                             for (int i = 0; i < Math.Min(max_hit_ats, hint_ats.Count); i++)
                             {
                                 Feature f_feature = hint_ats[hint_ats.Count - 1 - i].Item1;
                                 Feature s_feature = hint_ats[hint_ats.Count - 1 - i].Item2;
                                 //Make the hint
-                                string rel = "";
-                                if (!f_feature.getRelationshipNeighbor(s_feature.Id).Equals("")
-                                        && !(f_feature.getRelationshipNeighbor(s_feature.Id) == null))
+
+                                if (!f_features_used.Contains(f_feature))
                                 {
-                                    rel = f_feature.getRelationshipNeighbor(s_feature.Id);
+                                    string rel = "";
+                                    if (!f_feature.getRelationshipNeighbor(s_feature.Id).Equals("")
+                                            && !(f_feature.getRelationshipNeighbor(s_feature.Id) == null))
+                                    {
+                                        rel = f_feature.getRelationshipNeighbor(s_feature.Id);
+                                    }//end if
+                                    else if (!s_feature.getRelationshipNeighbor(f_feature.Id).Equals("")
+                                            && !(s_feature.getRelationshipNeighbor(f_feature.Id) == null))
+                                    {
+                                        rel = s_feature.getRelationshipNeighbor(f_feature.Id);
+                                    }//end else if
+                                    hint_at_text.Add(f_feature.Name + " " + rel);
+                                    //node_text = node_text + ", " + f_feature.Name + " " + rel;
                                 }//end if
-                                else if (!s_feature.getRelationshipNeighbor(f_feature.Id).Equals("")
-                                        && !(s_feature.getRelationshipNeighbor(f_feature.Id) == null))
-                                {
-                                    rel = s_feature.getRelationshipNeighbor(f_feature.Id);
-                                }//end else if
-                                hint_at_text.Add(f_feature.Name + " " + rel);
-                                //node_text = node_text + ", " + f_feature.Name + " " + rel;
 
                                 //Make sure the node in the second half of the storyline resolves back to the node
                                 //in the first half of the storyline.
                                 story_in.GetNodeByGraphId(s_feature.Id).AddStoryAct(Constant.RESOLVE, f_feature.Id);
-                            }//end for
-                            for (int i = 0; i < hint_at_text.Count; i++)
-                            {
-                                if (i == hint_at_text.Count - 1
-                                    && hint_at_text.Count > 1)
-                                {
-                                    node_text = node_text + ", and " + hint_at_text[i];
-                                }//end if
-                                else if (i == 0)
-                                {
-                                    node_text = node_text + " " + hint_at_text[i];
-                                }//end else if
-                                else
-                                {
-                                    node_text = node_text + ", " + hint_at_text[i];
-                                }//end else
+                                f_features_used.Add(f_feature);
                             }//end for
                             for (int i = 0; i < hint_at_text.Count; i++)
                             {

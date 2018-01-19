@@ -352,7 +352,7 @@ namespace Dialogue_Data_Entry
             string return_string = "";
 
             //Use all hint-ats
-            return_string = "{We'll hear more about ";
+            return_string = "{We will hear more about ";
             List<string> hint_ats_to_add = new List<string>();
             foreach (StoryNode temp_node in current_segment.Sequence)
             {
@@ -361,6 +361,8 @@ namespace Dialogue_Data_Entry
                     {
                         hint_ats_to_add.Add(HintAt(graph.getFeature(temp_node.graph_node_id)
                             , graph.getFeature(story_act.Item2)));
+                        // ZEV: Break is here so that only a single hint-at is made per node.
+                        break;
                     }//end if
             }//end foreach
             // Add all hint-ats found.
@@ -983,6 +985,9 @@ namespace Dialogue_Data_Entry
 
             foreach (Tuple<int, string> relationship_entry in relationship_list)
             {
+                // ZEV 10/12/17: Don't foreshadow a feature more than once at a time.
+                if (foreshadowed)
+                    break;
                 //Relationship away from feature to foreshadow
                 if (relationship_entry.Item1 == 0)
                 {
