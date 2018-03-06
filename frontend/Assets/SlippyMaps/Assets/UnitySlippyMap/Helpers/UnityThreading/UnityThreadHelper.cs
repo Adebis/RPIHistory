@@ -100,7 +100,7 @@ public class UnityThreadHelper : MonoBehaviour
         if (taskDistributor == null)
             taskDistributor = new UnityThreading.TaskDistributor();
 
-        isWebPlayer = Application.isWebPlayer;
+        //isWebPlayer = Application.isWebPlayer;
     }
 
     public static bool WaitOne(ManualResetEvent evt, int ms)

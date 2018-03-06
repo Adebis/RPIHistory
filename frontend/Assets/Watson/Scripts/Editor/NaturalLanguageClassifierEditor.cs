@@ -236,11 +236,11 @@ namespace IBM.Watson.DeveloperCloud.Editor
 
         private void OnGUI()
         {
-            if (Event.current.type == EventType.repaint && !m_handleRepaintError)
-            {
-                m_handleRepaintError = true;
-                return;
-            }
+            //if (Event.current.type == EventType.repaint && !m_handleRepaintError)
+            //{
+            //    m_handleRepaintError = true;
+            //    return;
+            //}
 
             GUILayout.Label(m_WatsonIcon);
 
