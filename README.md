@@ -1,29 +1,30 @@
 # RPIHistory
 
-## dependencies
+## Dependencies
 * unity version 5.3.0f — https://unity3d.com/get-unity/download/archive
 * win 10 — VS 2015 — https://go.microsoft.com/fwlink/?LinkId=691978&clcid=0x409
 * OSX — Xamarin Studio
   * ≥10.10  — https://www.xamarin.com/download
   * 10.9 — use same installer as above, then replace Xamarin Studio in Applications directory with http://download.xamarin.com/studio/Mac/XamarinStudio-5.9.8.0-0.dmg
 
-## tools
+## Tools
 * Knowledge explorer — (creates new data sets for other knowledge domains)* https://github.com/smiled0g/knowledge-explorer/releases
+
+## Run
+
+* C# Backend
+  * Navigate to \RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\bin\Release
+  * Run "Dialogue Data Entry.exe" as administrator
+  * Always start the backend before starting the frontend
+* Unity Frontend
+  * Open \RPIHistory\frontend\Assets\Scenes\rpi_history.unity
+  * Currently can only be run from editor
 
 ## build
 
 * RPI Backend
   * Win 10 — build & run SLN from VS 2015 as administrator "NarrativeBackendRPI/Data Entry/Data Entry/Zeno Data Entry.sln"
-  * OSX (TBC, still seem to be getting errors in Unity with this setup)
-    * open SLN in Xamarin Studio
-    * add NuGet packages for .NET support
-      * Microsoft .NET Framework 4 HTTP Client Libraries (2.0.20710.0)
-      * Json.NET (4.5.6)
-    * build & run
   * start server: query > chat > start server
-
-* Unity
-  * open & run "CISL/Assets/Scenes/rpi_history.unity"
 
 ## notes
 * navigation
