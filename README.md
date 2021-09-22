@@ -1,7 +1,7 @@
 # RPIHistory
 
 ## Dependencies
-* unity version 5.3.0f — https://unity3d.com/get-unity/download/archive
+* unity version 2017.3.0f — https://unity3d.com/get-unity/download/archive
 * win 10 — VS 2015 — https://go.microsoft.com/fwlink/?LinkId=691978&clcid=0x409
 * OSX — Xamarin Studio
   * ≥10.10  — https://www.xamarin.com/download
