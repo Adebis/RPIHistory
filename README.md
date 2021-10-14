@@ -20,6 +20,14 @@
   * Open \RPIHistory\frontend\Assets\Scenes\rpi_history.unity
   * Currently can only be run from editor
 
+* Changing XMLs
+  * Place your XML in \RPIHistory\frontend\Assets\StreamingAssets\xml.
+  * In the Unity Editor, select the loader game object.
+  * In the object's Inspector, Under Load XML (Script), change the Xml_location to that of the new XML.
+    * Do not use the Load XML File button, as it will set the filepath incorrectly.
+    * All locations are relative to the Folder \frontend\Assets\StreamingAssets. 
+    * Example: /xml/rpi_history_domain.xml
+
 ## build
 
 * RPI Backend
