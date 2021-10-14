@@ -21,6 +21,7 @@
   * Currently can only be run from editor
 
 * Changing XMLs
+  * You can only change XMLs while the program is not running.
   * Place your XML in \RPIHistory\frontend\Assets\StreamingAssets\xml.
   * In the Unity Editor, select the loader game object.
   * In the object's Inspector, Under Load XML (Script), change the Xml_location to that of the new XML.
