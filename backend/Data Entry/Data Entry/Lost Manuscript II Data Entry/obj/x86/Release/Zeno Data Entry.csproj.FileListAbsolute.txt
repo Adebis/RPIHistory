@@ -26,3 +26,5 @@ C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manu
 C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Release\Dialogue Data Entry.exe
 C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Release\Dialogue Data Entry.pdb
 C:\Users\Zev\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Release\Zeno Data Entry.csprojResolveAssemblyReference.cache
+C:\Users\zevsm\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Release\Dialogue Data Entry.exe
+C:\Users\zevsm\Documents\GitHub\RPIHistory\backend\Data Entry\Data Entry\Lost Manuscript II Data Entry\obj\x86\Release\Dialogue Data Entry.pdb

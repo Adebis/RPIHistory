@@ -148,7 +148,8 @@ namespace Dialogue_Data_Entry
 
         // The file where the constraints are encoded
         private List<string> constraint_list_filenames = new List<string>();
-        private string constraint_list_filename = "rpi_early_growth_constraints.txt";
+        //private string constraint_list_filename = "rpi_early_growth_constraints.txt";
+        private string constraint_list_filename = "constraints.txt";
         private List<int> target_id_list = new List<int>();
         List<Tuple<int, string, int>> target_constraint_list;
 
@@ -168,8 +169,8 @@ namespace Dialogue_Data_Entry
 			bot.loadAIMLFromFiles();
 			bot.isAcceptingUserInput = true;
 			this.user = new User("user", this.bot);*/
-            constraint_list_filenames.Add("rpi_early_growth_constraints.txt");
-            constraint_list_filenames.Add("ricketts_expansion_constraints.txt");
+            //constraint_list_filenames.Add("rpi_early_growth_constraints.txt");
+            //constraint_list_filenames.Add("ricketts_expansion_constraints.txt");
 
 			// Load the Feature Graph
 			this.graph = graph;
