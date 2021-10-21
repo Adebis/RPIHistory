@@ -349,7 +349,7 @@ public class timelineNode : MonoBehaviour
 			}
 		}//end foreach
 
-		ChangeSize(new Vector3(baseSize.x * 2.5f, baseSize.y * 2.5f, baseSize.z));
+		ChangeSize(new Vector3(baseSize.x * 5f, baseSize.y * 5f, baseSize.z));
 
 		//Mark this node as active
 		active = true;
@@ -664,7 +664,7 @@ public class timelineNode : MonoBehaviour
 			mouseOver = true;
 			enable_tag();
 
-            ChangeSize(new Vector3(baseSize.x * 2f, baseSize.y * 2f, baseSize.z));
+            ChangeSize(new Vector3(baseSize.x * 5f, baseSize.y * 5f, baseSize.z));
 			ChangeColor(Color.cyan);
 			if (callback != null) callback.ForEach(action => action("RE"));
 
