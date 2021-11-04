@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AIMind>
+	<Root id="9"/>
+	<Features>
+	   <Feature data="Sarah A.M. Aiken" id="1">
+        <neighbors>
+          <neighbor dest="2" relationship="amos students" weight="0"/>
+          <neighbor dest="3" relationship="amos students" weight="0"/>
+          <neighbor dest="4" relationship="amos students" weight="0"/>
+          <neighbor dest="5" relationship="amos students" weight="0"/>
+          <neighbor dest="6" relationship="amos students" weight="0"/>
+          <neighbor dest="7" relationship="amos students" weight="0"/>
+          <neighbor dest="8" relationship="amos students" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1834"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak>One of the 8 women that Amos Eaton taught in his experimental mathematics class in 1834, Sarah A.M. Aiken eventually married James Hall, a Rensselaer professor andd geologist. They likely met during their time at Rensselaer.</speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Sarah Cady Eaton" id="2">
+        <neighbors>
+          <neighbor dest="1" relationship="amos students" weight="0"/>
+          <neighbor dest="3" relationship="amos students" weight="0"/>
+          <neighbor dest="4" relationship="amos students" weight="0"/>
+          <neighbor dest="5" relationship="amos students" weight="0"/>
+          <neighbor dest="6" relationship="amos students" weight="0"/>
+          <neighbor dest="7" relationship="amos students" weight="0"/>
+          <neighbor dest="8" relationship="amos students" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1834"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak>One of the 8 women that Amos Eaton taught in his experimental mathematics class in 1834, Sarah Cady Eaton was Amos Eaton's daughter.</speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Eliza Eddy" id="3">
+        <neighbors>
+          <neighbor dest="1" relationship="amos students" weight="0"/>
+          <neighbor dest="2" relationship="amos students" weight="0"/>
+          <neighbor dest="4" relationship="amos students" weight="0"/>
+          <neighbor dest="5" relationship="amos students" weight="0"/>
+          <neighbor dest="6" relationship="amos students" weight="0"/>
+          <neighbor dest="7" relationship="amos students" weight="0"/>
+          <neighbor dest="8" relationship="amos students" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1834"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak>One of the 8 women that Amos Eaton taught in his experimental mathematics class in 1834, Eliza Eddy was listed as a student in the Troy Female Seminary from 1833-1835.</speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Laura Johnson" id="4">
+        <neighbors>
+          <neighbor dest="1" relationship="amos students" weight="0"/>
+          <neighbor dest="2" relationship="amos students" weight="0"/>
+          <neighbor dest="3" relationship="amos students" weight="0"/>
+          <neighbor dest="5" relationship="amos students" weight="0"/>
+          <neighbor dest="6" relationship="amos students" weight="0"/>
+          <neighbor dest="7" relationship="amos students" weight="0"/>
+          <neighbor dest="8" relationship="amos students" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1834"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak>One of the 8 women that Amos Eaton taught in his experimental mathematics class in 1834, Laura Johnson was Eaton's sister-in-law.</speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Abigail H. Lindsley" id="5">
+        <neighbors>
+          <neighbor dest="1" relationship="amos students" weight="0"/>
+          <neighbor dest="2" relationship="amos students" weight="0"/>
+          <neighbor dest="3" relationship="amos students" weight="0"/>
+          <neighbor dest="4" relationship="amos students" weight="0"/>
+          <neighbor dest="6" relationship="amos students" weight="0"/>
+          <neighbor dest="7" relationship="amos students" weight="0"/>
+          <neighbor dest="8" relationship="amos students" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1834"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak>One of the 8 women that Amos Eaton taught in his experimental mathematics class in 1834, Abigail H. Lindsley was listed as a student in the Troy Female Seminary from 1833-1835.</speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Laura A. Palmer" id="6">
+        <neighbors>
+          <neighbor dest="1" relationship="amos students" weight="0"/>
+          <neighbor dest="2" relationship="amos students" weight="0"/>
+          <neighbor dest="3" relationship="amos students" weight="0"/>
+          <neighbor dest="4" relationship="amos students" weight="0"/>
+          <neighbor dest="5" relationship="amos students" weight="0"/>
+          <neighbor dest="7" relationship="amos students" weight="0"/>
+          <neighbor dest="8" relationship="amos students" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1834"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak>One of the 8 women that Amos Eaton taught in his experimental mathematics class in 1834, Laura A. Palmer was the niece of Amos Eaton's 4th and final wife.</speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Fanny E. Tuttle" id="7">
+        <neighbors>
+          <neighbor dest="1" relationship="amos students" weight="0"/>
+          <neighbor dest="2" relationship="amos students" weight="0"/>
+          <neighbor dest="3" relationship="amos students" weight="0"/>
+          <neighbor dest="4" relationship="amos students" weight="0"/>
+          <neighbor dest="5" relationship="amos students" weight="0"/>
+          <neighbor dest="6" relationship="amos students" weight="0"/>
+          <neighbor dest="8" relationship="amos students" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1834"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak>One of the 8 women that Amos Eaton taught in his experimental mathematics class in 1834, Fanny E. Tuttle was listed as a student in the Troy Female Seminary from 1833-1835.</speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Juliet Wallace" id="8">
+        <neighbors>
+          <neighbor dest="1" relationship="amos students" weight="0"/>
+          <neighbor dest="2" relationship="amos students" weight="0"/>
+          <neighbor dest="3" relationship="amos students" weight="0"/>
+          <neighbor dest="4" relationship="amos students" weight="0"/>
+          <neighbor dest="5" relationship="amos students" weight="0"/>
+          <neighbor dest="6" relationship="amos students" weight="0"/>
+          <neighbor dest="7" relationship="amos students" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1834"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak>One of the 8 women that Amos Eaton taught in his experimental mathematics class in 1834, Juliet Wallace was listed as a student in the Troy Female Seminary from 1833-1835. Her husband also attended Rensselaer, graduating in 1837.</speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Lois Graham" id="9">
+        <neighbors>
+          <neighbor dest="10" relationship="first graduates" weight="0"/>
+          <neighbor dest="11" relationship="first students" weight="0"/>
+          <neighbor dest="12" relationship="ww2 students" weight="0"/>
+          <neighbor dest="13" relationship="mech e" weight="0"/>
+          <neighbor dest="14" relationship="mech e" weight="0"/>
+          <neighbor dest="15" relationship="mech e" weight="0"/>
+          <neighbor dest="16" relationship="mech e" weight="0"/>
+          <neighbor dest="17" relationship="phd" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1942"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak></speak>On Saturday, September 12th, 1942, RPI’s swim coach “Pop” Graham received a phone call from administration notifying him that Rensselaer had decided to accept women students. They were wondering whether his daughter, Lois, might be interested in enrolling. 
+	"On the spot, I decided yes," recalls Lois Graham '46. "So on Sunday, instead of going to the freshman reception at Albany State Teachers College, I went to the one at RPI. I enrolled on Monday.”
+	Being one of the first women to enroll, Lois was treated as something of a test program or case study, never mind that she was mostly interested in obtaining a good education. "RPI told me when I enrolled that the future of whether they would continue to accept women or not would be based on my performance," she recalls. "Of course, this meant that I had to strive for very good grades.”
+	That being said, regardless of the intense scrutiny, Graham was too motivated and invested in her program to be deterred. "People had told me how hard engineering was going to be and, although I worked very hard, I never felt I couldn't handle it. I enjoyed it, and in that sense it wasn't hard.” Her own strict expectations and demanding schedule were in some ways emblematic of the RPI student experience at the time. The new women students were pushing themselves to get the best education that they could. Meanwhile, the war turned the majority of male students from civilians into servicemen who engaged in daily drills as the threat of deployment loomed overhead.
+	Graham was the first woman to be inducted into Pi Tau Sigma at Rensselaer and, in  1945, she and Mary Ellen Rathbun were RPI’s first two women graduates as part of a war-accelerated, two and a half year program. Shortly after, she earned her PhD at the Illinois Institute of Technology, becoming the first woman in the U.S. to earn a doctoral degree in Mechanical Engineering. She then went on to become an associate professor there and the institute’s President of the Academic Senate.
+	IIT used to brag that they had “more than the national average number of women engineers” on its faculty. At the time, though, she was the only woman in such a position.
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Mary Ellen Rathbun" id="10">
+        <neighbors>
+          <neighbor dest="9" relationship="first graduates" weight="0"/>
+          <neighbor dest="11" relationship="first students" weight="0"/>
+          <neighbor dest="12" relationship="ww2 students" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1942"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak> Mary Ellen Rathbun enrolled with the first group of RPI’s women in 1942. Like her female classmates, she had many recollections about RPI’s inability to accommodate women. "There were over 400 men to each woman then,” she reported. “There wasn't a dorm for us [women], so I had to take a room at Russell Sage College ... I also remember my dread of climbing all of those stairs on The Approach each day, especially when the mercury was way below zero.”
+	Despite her trials, Rathbun was one of the first two women graduates on April 22, 1945 after completing a two and a half year program accelerated by World War II. After graduating, she moved on to work for Chrysler and eventually married another RPI grad who had been in the year above her. Their daughter, Mary Jane Kolb Stanley, graduated RPI in 1969 and their son, John Kolb, followed suit in 1979. </speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Elizabeth English DeNike" id="11">
+        <neighbors>
+          <neighbor dest="9" relationship="first students" weight="0"/>
+          <neighbor dest="10" relationship="first students" weight="0"/>
+          <neighbor dest="12" relationship="ww2 students" weight="0"/>
+        </neighbors>
+         <timedata>
+           <timeobj label="date" value="1942"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak> 	While on a bus to the College of St. Rose, DeNike noticed a banner in the Saturday newspaper. As of that day, September 12th, 1942, the Rensselaer Polytechnic Institute would be allowing women to enroll. Right then, she got off the bus and hiked up to RPI’s admissions building, enrolling on the spot.
+	Unfortunately, as one of the first women to attend RPI, she had to cope with the school’s complete inability to accommodate female students. In addition to a lack of housing and social programs, there were not even bathrooms available to women. DeNike used to run down to the railroad station near the bottom of what we now call The Approach to use their facilities. 
+	"I could go at noon, and eat my lunch, and come back." One day a professor mustered up the courage to ask her where she used a bathroom. "When I said, 'the railroad station,' he exclaimed, 'My God!' and offered me a key to the professors' lavatories.” </speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Reva R.G. Servoss" id="12">
+        <neighbors>
+          <neighbor dest="9" relationship="ww2 students" weight="0"/>
+          <neighbor dest="10" relationship="ww2 students" weight="0"/>
+          <neighbor dest="11" relationship="ww2 students" weight="0"/>
+          <neighbor dest="17" relationship="chemistry" weight="0"/>
+          <neighbor dest="18" relationship="chemistry" weight="0"/>
+          <neighbor dest="13" relationship="phd" weight="0"/>
+          <neighbor dest="14" relationship="phd" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1942"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak> In the same year that RPI allowed its first women to enroll, Reva Servoss fled Belgium as the Nazis invaded her home and stole her parents away. Once she returned to Belgium after the war, she enrolled at the University of Liege and earned her undergraduate degree in 1948 shortly before enrolling at RPI. Here, she completed her master’s in chemistry and then, in 1954, became the first woman to receive a doctoral degree from RPI. Despite her rigorous studies, though, Servoss said that RPI’s social atmosphere was the most difficult part of her life here. Coeds were often excluded from campus events, such as dances and theatre productions, severely limiting her activities. Simultaneously, she needed to live in a small house off campus, further and physically removing her from RPI’s social life. To make things worse, once she became a teaching assistant, students who were unwilling to accept a female instructor repeatedly challenged or outright ignored her. Dr. Servoss largely attributes her academic success to her faculty advisor, Professor Herbert Clark, who offered her tremendous support and encouragement during her time here. </speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Deborah Kaminsky" id="13">
+        <neighbors>
+          <neighbor dest="9" relationship="mech e" weight="0"/>
+          <neighbor dest="14" relationship="mech e" weight="0"/>
+          <neighbor dest="15" relationship="mech e" weight="0"/>
+          <neighbor dest="16" relationship="mech e" weight="0"/>
+          <neighbor dest="17" relationship="masters" weight="0"/>
+          <neighbor dest="12" relationship="phd" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1942"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak> Deborah Kaminski, class of 1973, earned her bachelor’s, master’s, and doctoral degrees from Rensselaer. After, she became RPI’s Director of Core Engineering and an associate professor of mechanical engineering. Named a fellow of the American Society of Mechanical Engineers, she was also one of twenty-one engineering faculty to receive the Ralph R. Teetor Educational Award from the Society of Automotive Engineers. While serving as the President of the Faculty Senate in 1994, she was the speaker during the unveiling ceremony for Edith Luchins’ commissioned portrait. </speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Jill Kaufman" id="14">
+        <neighbors>
+          <neighbor dest="9" relationship="mech e" weight="0"/>
+          <neighbor dest="13" relationship="mech e" weight="0"/>
+          <neighbor dest="15" relationship="mech e" weight="0"/>
+          <neighbor dest="16" relationship="mech e" weight="0"/>
+          <neighbor dest="12" relationship="phd" weight="0"/>
+          <neighbor dest="17" relationship="phd" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1942"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak> Kaufman earned a bachelor’s degree in mechanical engineering from Rensselaer in 1975 and, after graduate school at MIT, began working on nuclear reactor safety research at the Brookhaven National Laboratory. She was chosen to be one of ten of Glamour magazine’s outstanding young working women in America. </speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Linda Strunk" id="15">
+        <neighbors>
+          <neighbor dest="9" relationship="mech e" weight="0"/>
+          <neighbor dest="13" relationship="mech e" weight="0"/>
+          <neighbor dest="14" relationship="mech e" weight="0"/>
+          <neighbor dest="16" relationship="mech e" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1942"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak> Strunk was an editor of the Rensselaer Engineer and involved in the astrophysical club, the photography club, and the Professional Leadership Program while attending RPI. After earning her degree in mechanical engineering in 1988, she took a job with the Japanese software company Toppen Moore. </speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Irma Shaler Cohen" id="16">
+        <neighbors>
+          <neighbor dest="9" relationship="mech e" weight="0"/>
+          <neighbor dest="13" relationship="mech e" weight="0"/>
+          <neighbor dest="14" relationship="mech e" weight="0"/>
+          <neighbor dest="15" relationship="mech e" weight="0"/>
+          <neighbor dest="17" relationship="sexual discrimination" weight="0"/>
+          <neighbor dest="18" relationship="sexual discrimination" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1942"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak> As one of the first women to attend RPI, Cohen recollects that the school was far more relaxed about the girls than she had expected. All girls schools were notoriously protective, yet "RPI was very relaxed about us. They let us be adults," Cohen said. "There was no in loco parentis involved. We had to be pretty independent to survive.”
+Partially because of this, Cohen noted that “we were never made to feel that we were an oddity or a groundbreaker.” Although there were distinct differences between the allowances for the males and females of campus, some social restrictions were let to slide. For example, women students in the ‘40s wore slacks "in the days before women [were allowed to wear] pants" due to the practical nature of the laboratory work they did.
+After graduating with a degree in mechanical engineering, Cohen had difficulty finding work, as did so many of her female peers. “There were companies that summarily dismissed the thought of hiring women because [the companies presumed that women] were going to get married, get pregnant, and have babies.” No one wanted to invest in a worker who would “abandon” the company within a couple of years. </speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Rose Dill" id="17">
+        <neighbors>
+          <neighbor dest="12" relationship="chemistry" weight="0"/>
+          <neighbor dest="13" relationship="masters" weight="0"/>
+          <neighbor dest="9" relationship="phd" weight="0"/>
+          <neighbor dest="14" relationship="phd" weight="0"/>
+          <neighbor dest="16" relationship="sexual discrimination" weight="0"/>
+          <neighbor dest="18" relationship="sexual discrimination" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1942"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak> Dill began her career as a biochemistry research assistant. However, after witnessing a multitude of male coworkers get offered promotions that were not extended to her, Dill quit and instead pursued a graduate degree at RPI. In 1967, she earned her M.S. in chemistry and, in ’83, she obtained her PhD in Urban and Environmental studies.
+	By 1989, Dill had become the Deputy Director of the New York State Division for Women. There, she developed programs for child care and support, women affected by AIDS, disabled women, and sexual discrimination victims. She simultaneously worked as an Adjunct Professor in RPI’s Urban and Environmental Studies Program. She eventually went on to become the Executive Director of the New York State Citizens Advisory Committee for Low-Level Radioactive Waste. </speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+      <Feature data="Julianna Berry" id="18">
+        <neighbors>
+          <neighbor dest="12" relationship="chemistry" weight="0"/>
+          <neighbor dest="17" relationship="sexual discrimination" weight="0"/>
+          <neighbor dest="16" relationship="sexual discrimination" weight="0"/>
+        </neighbors>
+		<geodata />
+         <timedata>
+           <timeobj label="date" value="1942"/>
+         </timedata>
+         <pictures>
+         </pictures>
+         <speak> Julianna Berry enrolled at Rensselaer in 1991 as a chemistry major. However, she found the climate so unwelcoming to girls that she left after one year. When she returned, she did so as a communications major. Berry was later quoted saying “It’s not inability that drives women from science schools, an RPI grad says, it’s the pervasive male culture.” </speak>
+         <zh-speak />
+         <description />
+         <zh-data />
+         <thumbnail />
+      </Feature>
+	</Features>
+</AIMind>

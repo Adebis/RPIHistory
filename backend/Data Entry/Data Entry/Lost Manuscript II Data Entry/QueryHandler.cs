@@ -149,6 +149,7 @@ namespace Dialogue_Data_Entry
         // The file where the constraints are encoded
         private List<string> constraint_list_filenames = new List<string>();
         private string constraint_list_filename = "constraint.txt";
+        //private string constraint_list_filename = "rpi_early_growth_constraints.txt";
         private List<int> target_id_list = new List<int>();
         List<Tuple<int, string, int>> target_constraint_list;
 
