@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SwitchScenes.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SwitchScenes.cs" Line="18" Column="39" />
+      <File FileName="Assets/Scripts/AddNodetoList.cs" Line="37" Column="1" />
+      <File FileName="../Documents/GitHub/RPIHistory/backend/Data Entry/Data Entry/Lost Manuscript II Data Entry/QueryHandler.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2bcb8225-28a1-41e1-80a9-6d85ac23d177" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
