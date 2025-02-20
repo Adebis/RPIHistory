@@ -1,5 +1,0 @@
-- Look into automatically generating/discovering the knowledge graph
-	- as user explores, knowledge graph is grown in the direction of exploration
-	- Domains can somehow be searched for and graphs generated before story is made
-- More chronological story?
-- Bring to different domain...
